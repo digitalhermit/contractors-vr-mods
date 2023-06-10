@@ -32,6 +32,8 @@ Saved
 /Script/
 /Mods/BF4/
 /Mods/TestG/Content-Cruft/
+*_android
+*_pc
 
 # Ignore project file
 Contractors_UE4_22.uproject
