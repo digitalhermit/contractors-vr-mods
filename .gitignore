@@ -1,0 +1,37 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Ignore build outputs
+*.pak
+*.zip
+.gitignore.bak
+
+# Top Level Directories to ignore
+/.modio/
+/Build/
+/Config/
+/Content/
+/DerivedDataCache/
+/Intermediate/
+/Plugins/
+/Releases/
+/Resources/
+/Saved/
+/Script/
+/Mods/BF4/
+/Mods/TestG/Content-Cruft/
+
+# Ignore project file
+Contractors_UE4_22.uproject
